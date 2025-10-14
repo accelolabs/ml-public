@@ -1,3 +1,4 @@
 # ml-public
 
-(Supervised)[/Supervised.md]
+[Supervised](Supervised.md)
+[Unsupervised]()
