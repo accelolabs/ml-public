@@ -52,6 +52,7 @@
 ## 8. Как и зачем делать one-hot encoding? Можно ли это делать функцией pandas.get_dummies? Чем one-hot отличается от binary-encoding?
 
 
+
 ## 9. Как вычисляется cross-entropy и почему она cross?
 
 
